@@ -1,0 +1,188 @@
+{
+  "components": [
+    {
+      "id": "component_1762501724967_nndmaezqm",
+      "type": "swiper",
+      "name": "轮播图FFt",
+      "config": {
+        "items": [
+          {
+            "id": "1",
+            "type": "image",
+            "src": "https://cdn.kedao.ggss.club/2025-11-7-15-49-10-道教元素轮播图设计-file.png",
+            "alt": "轮播图1",
+            "title": ""
+          },
+          {
+            "id": "2",
+            "type": "image",
+            "src": "https://cdn.kedao.ggss.club/2025-11-7-15-49-7-道教寺庙横幅创作-file.png",
+            "alt": "",
+            "title": ""
+          }
+        ],
+        "autoplay": true,
+        "autoplayDelay": 3000,
+        "loop": true,
+        "showIndicators": false,
+        "indicatorType": "numbers",
+        "indicatorPosition": "right-bottom",
+        "showArrows": true,
+        "imageObjectFit": "cover",
+        "aspectRatio": "4/3",
+        "customAspectRatio": "16:9",
+        "styleType": "default",
+        "showSearchBar": true,
+        "searchPlaceholder": "搜索...",
+        "searchLink": "",
+        "searchIcon": "",
+        "imageRadius": 0
+      },
+      "containerStyle": {
+        "background": {
+          "size": "cover",
+          "position": "center",
+          "repeat": "no-repeat",
+          "blur": false,
+          "blurValue": 10
+        },
+        "border": {
+          "width": 0,
+          "style": "solid",
+          "color": "#000000",
+          "radius": 0
+        },
+        "borderRadius": {
+          "topLeft": 0,
+          "topRight": 0,
+          "bottomLeft": 0,
+          "bottomRight": 0
+        },
+        "shadow": {
+          "enabled": false,
+          "color": "#000000",
+          "offsetX": 0,
+          "offsetY": 2,
+          "blurRadius": 4,
+          "spreadRadius": 0,
+          "inset": false
+        },
+        "padding": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "margin": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "size": {
+          "width": "auto",
+          "height": "auto",
+          "heightMode": "auto"
+        }
+      }
+    },
+    {
+      "id": "component_1762501955360_s8svyfesr",
+      "type": "magic-cube",
+      "name": "魔方2gF",
+      "config": {
+        "model": "custom",
+        "row": 4,
+        "col": 4,
+        "list": [
+          {
+            "x": 0,
+            "y": 0,
+            "height": 2,
+            "width": 4,
+            "image": "https://cdn.kedao.ggss.club/2025-11-7-16-7-52-我的家园-file.png",
+            "targetUrl": "",
+            "linkUrl": "",
+            "backgroundRepeat": "no-repeat",
+            "backgroundSize": "cover"
+          },
+          {
+            "x": 0,
+            "y": 2,
+            "height": 1,
+            "width": 2,
+            "image": "https://cdn.kedao.ggss.club/2025-11-7-16-15-56-查询通道-file.png",
+            "targetUrl": "",
+            "linkUrl": "",
+            "backgroundRepeat": "no-repeat",
+            "backgroundSize": "contain"
+          }
+        ],
+        "imgMargin": 15,
+        "imgRadius": 4,
+        "instanceId": "magic-cube-1762501955359-9je9mffqv"
+      },
+      "containerStyle": {
+        "background": {
+          "color": "#F1E5D3",
+          "size": "cover",
+          "position": "center",
+          "repeat": "no-repeat",
+          "blur": false,
+          "blurValue": 10
+        },
+        "border": {
+          "width": 0,
+          "style": "solid",
+          "color": "#000000",
+          "radius": 0
+        },
+        "borderRadius": {
+          "topLeft": 10,
+          "topRight": 10,
+          "bottomLeft": 10,
+          "bottomRight": 10
+        },
+        "shadow": {
+          "enabled": false,
+          "color": "#000000",
+          "offsetX": 0,
+          "offsetY": 2,
+          "blurRadius": 4,
+          "spreadRadius": 0,
+          "inset": false
+        },
+        "padding": {
+          "top": 10,
+          "right": 10,
+          "bottom": 10,
+          "left": 10
+        },
+        "margin": {
+          "top": -64,
+          "right": 20,
+          "bottom": 0,
+          "left": 20
+        },
+        "size": {
+          "width": "auto",
+          "height": "auto",
+          "heightMode": "auto"
+        }
+      }
+    }
+  ],
+  "config": {
+    "title": "",
+    "description": "",
+    "background": {
+      "color": "#F7F2E7",
+      "image": "",
+      "size": "cover",
+      "position": "center",
+      "repeat": "no-repeat",
+      "blur": false,
+      "blurValue": 0
+    }
+  }
+}
